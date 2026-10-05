@@ -1,13 +1,14 @@
-## Hi there ☕️
+I’ll keep you from becoming stateless,
+like a serverless action.
+I’ll separate your thoughts
+from those who want to steal them,
+isolating them like Docker containers,
+and keeping them safe, like in Kubernetes.
 
-```
-> enforcing willpower...
-> learning consistency...
-> debugging myself...
-> compiling a better version...
-[██████████░░░░] 83%
-```
+I’ll open new horizons for you, like Milvus,
+and the memory of who you are
+will be kept safe, like in S3.
 
-<img width="1254" height="1254" alt="file_00000000823c7246aa3e1ff4c9e70fc7" src="https://github.com/user-attachments/assets/29c3a4c4-c814-4f0d-b76e-ba3f47228fe8" />
-
-Continuous iteration, constant identity. The ways change, but the vision remains. Consistent evolution: this is usualalteration.
+And the weight of your mistakes
+will fade away with time,
+as if they had been saved in Redis.
